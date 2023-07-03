@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6498a29f089c476eff079d37"
+  },
+  "name": "testeomon",
+  "img": "no",
+  "level": "altisimo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649b101be306733778e84361"
+  },
+  "name": "test8digimon",
+  "img": "no",
+  "level": "Fresh",
+  "__v": 0
+}]
