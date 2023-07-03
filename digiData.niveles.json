@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "649c6242e862c450164249cb"
+  },
+  "id": 3,
+  "nombre": "In Training"
+},
+{
+  "_id": {
+    "$oid": "649c626de862c450164249cd"
+  },
+  "id": 4,
+  "nombre": "Ultimate"
+},
+{
+  "_id": {
+    "$oid": "649c627be862c450164249cf"
+  },
+  "id": 5,
+  "nombre": "Mega"
+},
+{
+  "_id": {
+    "$oid": "649c6286e862c450164249d1"
+  },
+  "id": 1,
+  "nombre": "Rookie"
+},
+{
+  "_id": {
+    "$oid": "649c6293e862c450164249d3"
+  },
+  "id": 6,
+  "nombre": "Armor"
+},
+{
+  "_id": {
+    "$oid": "649c62a6e862c450164249d5"
+  },
+  "id": 2,
+  "nombre": "Fresh"
+},
+{
+  "_id": {
+    "$oid": "649c816de862c450164249d9"
+  },
+  "id": 7,
+  "nombre": "Champion"
+}]
