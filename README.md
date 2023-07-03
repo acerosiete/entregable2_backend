@@ -64,6 +64,11 @@ Catalogo de niveles disponibles:
 +Fresh
 +Champion
 
+Se adjuntan al repositorio las colecciones de la BD en formato JSON:
++nombres
++niveles
++digimons
+
 El backend se encuentra en la carpeta "app", se hace uso de las siguientes tecnologias:
 
 -Framework Express
